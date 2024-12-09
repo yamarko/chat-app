@@ -2,7 +2,7 @@
 
 A fullstack chat application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with real-time messaging, automatic replies, and user notifications.
 
-Deployed on Render. You can access it here: [link](https://chat-test-7z5s.onrender.com).
+Deployed on Render. You can access it here: [link](https://chat-app-65ee.onrender.com).
 
 ## Tech Stack
 
